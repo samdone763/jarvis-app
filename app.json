@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Jarvis",
+    "slug": "jarvis-assistant",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "scheme": "jarvis",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0066FF"
+      },
+      "package": "com.samdone763.jarvis",
+      "permissions": [
+        "RECORD_AUDIO",
+        "INTERNET",
+        "VIBRATE"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a70aecb4-027e-4eef-8627-146b8628bd9d"
+      }
+    }
+  }
+}
